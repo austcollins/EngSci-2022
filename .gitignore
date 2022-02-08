@@ -1,0 +1,5 @@
+videos/
+venv/
+*.mov
+videos-do-not-run/david-distracted.mp4
+.DS_Store
