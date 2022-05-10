@@ -1,4 +1,8 @@
 # EngSci-2022
+Engineering Science Module 2022
+Authors: Austin, John, & Yusef
+
+## Main File
 pd-new.py is the current version  
 Previous versions/attempts are stored in /old-versions/
 
