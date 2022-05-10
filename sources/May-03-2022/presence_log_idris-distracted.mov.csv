@@ -1,0 +1,16 @@
+timestamp,0.0,True
+Timestamp,30.468373736255625,False
+timestamp,92.63820391484023,True
+Timestamp,215.31142544830638,False
+timestamp,217.54477105010702,True
+Timestamp,257.3136337724153,False
+timestamp,259.84699514795955,True
+Timestamp,281.08155007010555,False
+timestamp,284.04826756327947,True
+
+percentage_time_present,0.8839391531066775
+total_video_time,602.2983333333333
+time_assumed_present,39.33582207955132
+time_face_present,493.05925660467864
+total_time_present,532.3950786842299
+percentage_time_assumed,0.06530953167652463
