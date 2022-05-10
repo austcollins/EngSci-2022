@@ -12,6 +12,6 @@ Videos in /videos/videos-do-no-run will not run.
 Videos must be .mov or .mp4 in lowercase.  
 
 ## The results
-The results will be placed in a csv in the /sources/ folder, ina  folder named by todays date.  
+The results will be placed in a csv in the /sources/ folder, in a  folder named by todays date.  
 If a video is run twice on the same day the data will be appended to the same file.
 
